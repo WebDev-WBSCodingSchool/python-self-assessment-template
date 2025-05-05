@@ -1,0 +1,16 @@
+# Bytecode caches
+__pycache__/
+*.py[cod]
+
+# pytest cache
+.pytest_cache/
+
+# VS Code settings & workspace data (keep the curated settings we ship)
+.vscode/*.db
+.history/
+
+# Virtual environments
+.venv/
+venv/
+
+# macOS metadata\ n.DS_Store
