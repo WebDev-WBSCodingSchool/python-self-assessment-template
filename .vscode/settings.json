@@ -8,6 +8,7 @@
   "copilotDocs": "https://code.visualstudio.com/docs/copilot/reference/copilot-settings",
   "chat.commandCenter.enabled": false,
   "github.copilot.editor.enableCodeActions": false,
+  "workbench.statusBar.visible": false,
   "workbench.editor.empty.hint": "hidden",
   "python.testing.cwd": "${workspaceFolder}",
   "python.testing.pytestArgs": ["tests"],
