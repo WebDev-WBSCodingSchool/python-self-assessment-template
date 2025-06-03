@@ -14,7 +14,7 @@ source .venv/bin/activate  # Windows: .venv\\Scripts\\activate
 2. Install dependencies:
 
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 3. Run the tests:
@@ -33,10 +33,10 @@ Run them all!
 
 ## What you will practise
 
-- Writing clean, idiomatic Python functions
+-   Writing clean, idiomatic Python functions
 
-- Working with numbers and sequences
+-   Working with numbers and sequences
 
-- Using basic control flow and algorithms
+-   Using basic control flow and algorithms
 
-- Running and interpreting automated tests
+-   Running and interpreting automated tests
